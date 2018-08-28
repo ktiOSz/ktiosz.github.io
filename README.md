@@ -15,6 +15,6 @@ Contact me on my Gmail: ktioszdev@gmail.com
 
 My Projects and Hacks with the Team
 
-WebKit semi-exploit 5.55 PS4: ktiosz.github.io/webkit5_55.html
+WebKit semi-exploit 5.55 PS4: https://ktiosz.github.io/webkit5_55.html
 
-WebKit iOS 11.4 & 11.4.1: ktiosz.github.io/WebKit_1141.html
+WebKit iOS 11.4 & 11.4.1: https://ktiosz.github.io/WebKit_1141.html
