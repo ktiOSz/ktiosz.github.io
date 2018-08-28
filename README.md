@@ -11,6 +11,8 @@ Find my projects on GitHub: https://github.com/ktiOSz
 
 Contact me on my Gmail: ktioszdev@gmail.com
 
+PayPal: Coming Soon
+
 
 
 My Projects and Hacks with the Team
