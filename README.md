@@ -1,5 +1,5 @@
 # ktiosz.github.io
-15yo. iOS, Nintendo and PS4 Hacker. You can contact me on Twitter or on my gmail.
+15yo. iOS & PS4 Hacker. You can contact me on Twitter or on my gmail.
 
 You can get my links here:
 
